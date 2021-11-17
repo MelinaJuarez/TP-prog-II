@@ -1,0 +1,11 @@
+Nombre, CUIL, número de telefono
+
+Felix Vischi, 45612, 123456
+Martina Villar, 78945, 654987
+Josefina Fernandez, 95115, 753357
+Melina Juarez, 98765, 742684
+Martina Sipowicz, 50496, 741652
+Rodrigo Peralta, 45035, 741650
+Anastasio Josefino, 74126, 102358
+Charly Garcia, 41036, 840369
+Gertrudis Milanesa, 41206, 985206
