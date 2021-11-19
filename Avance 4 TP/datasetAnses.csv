@@ -1,0 +1,10 @@
+"Nombre", "CUIL", "número de telefono", "Barrio", "Coordenada X Extremo NorOeste", "Coordenada Y Extremo NorOeste","Coordenada X Extremo SurOeste", "Coordenada Y Extremo SurOeste", "Coordenada X Extremo NorEste", "Coordenada Y Extremo NorEste", "Coordenada X Extremo SurEste", "Coordenada Y Extremo SurEste"
+"Felix Vischi", 45612, 123456, "Manuel Belgrano",0,20,0,10,12.5,20,12.5,10
+"Martina Villar", 78945, 654987, "Sarmiento",12.5,20,12.5,10,25,20,25,10
+"Josefina Fernandez", 95115, 753357, "Sarmiento",12.5,20,12.5,10,25,20,25,10
+"Melina Juarez", 98765, 742684, "Manuel Belgrano",0,20,0,10,12.5,20,12.5,10
+"Martina Sipowicz", 50496, 741652, "Mitre",0,10,0,0,12.5,10,12.5,0
+"Rodrigo Peralta", 45035, 741650, "San Martín",12.5,10,12.5,0,25,20,25,0
+"Anastasio Josefino", 74126, 102358, "Sarmiento",12.5,20,12.5,10,25,20,25,10
+"Charly Garcia", 41036, 840369, "Mitre",0,10,0,0,12.5,10,12.5,0
+"Gertrudis Milanesa", 41206, 985206, "Manuel Belgrano",0,20,0,10,12.5,20,12.5,10
